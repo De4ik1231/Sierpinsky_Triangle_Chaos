@@ -4,7 +4,7 @@
 #include "init.h"
 
 #define NUM_POINT      3
-#define TARGET_POINT   500000
+#define TARGET_POINT   50000
 #define WHITE WhitePixel(ini.dpy, ini.screen)
 
 struct point
